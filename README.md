@@ -6,4 +6,5 @@ NOTE: This project has been developed under Udacity's Android Developer for Begi
 This is an Android Application that provides English To Mivok translations for Phrases, Colors, Numbers, and Family member names.
 The UI consists of 4 tabs (each tab corresponding to the category of words). Upon clicking a word, the audio of its Mivok translation is output.
 
-![alt text](screenshot.png)
+![alt tag](https://github.com/shahzad-virani/Translation-App/blob/master/screenshot.PNG)
+
